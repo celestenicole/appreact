@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/appreact/static/css/main.424060c6.css",
-    "main.js": "/appreact/static/js/main.d126be51.js",
+    "main.js": "/appreact/static/js/main.f96d793f.js",
     "static/media/plazavea.png": "/appreact/static/media/plazavea.4891cb55003cedf19e6a.png",
     "index.html": "/appreact/index.html",
     "main.424060c6.css.map": "/appreact/static/css/main.424060c6.css.map",
-    "main.d126be51.js.map": "/appreact/static/js/main.d126be51.js.map"
+    "main.f96d793f.js.map": "/appreact/static/js/main.f96d793f.js.map"
   },
   "entrypoints": [
     "static/css/main.424060c6.css",
-    "static/js/main.d126be51.js"
+    "static/js/main.f96d793f.js"
   ]
 }
