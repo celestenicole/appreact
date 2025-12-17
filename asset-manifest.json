@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/appreact/static/css/main.f73b51cb.css",
-    "main.js": "/appreact/static/js/main.65fc78e5.js",
+    "main.js": "/appreact/static/js/main.888c8498.js",
     "static/media/plazavea.png": "/appreact/static/media/plazavea.4891cb55003cedf19e6a.png",
     "static/media/tarjetas.png": "/appreact/static/media/tarjetas.ee41372f028bdd94cfc3.png",
     "static/media/logooh.png": "/appreact/static/media/logooh.eb6795068d0493ac7301.png",
     "index.html": "/appreact/index.html",
     "main.f73b51cb.css.map": "/appreact/static/css/main.f73b51cb.css.map",
-    "main.65fc78e5.js.map": "/appreact/static/js/main.65fc78e5.js.map"
+    "main.888c8498.js.map": "/appreact/static/js/main.888c8498.js.map"
   },
   "entrypoints": [
     "static/css/main.f73b51cb.css",
-    "static/js/main.65fc78e5.js"
+    "static/js/main.888c8498.js"
   ]
 }
